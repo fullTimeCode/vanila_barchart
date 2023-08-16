@@ -1,0 +1,14 @@
+{
+  "name": "vanila_barchart",
+  "version": "1.0.0",
+  "description": "barchart with D3 html and SCSS",
+  "main": "barchart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moby khan",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.8.5"
+  }
+}
